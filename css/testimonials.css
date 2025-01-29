@@ -72,28 +72,28 @@ slider > * {
 slide:nth-child(1) {
   left: 0%;
   animation-delay:-1s ;
-  background-image: url(/images/slide1.jpg);
+  background-image: url("../images/slide1.jpg");
   background-size: cover;
   background-position: center;
 }
 slide:nth-child(2) {
   /* left: 0%; */
   animation-delay:2s ;
-  background-image: url(/images/slide2.jpg);
+  background-image: url("../images/slide2.jpg");
   background-size: cover;
   background-position: center;
 }
 slide:nth-child(3) {
   left: 0%;
   animation-delay:5s ;
-  background-image: url(/images/slide3.jpg);
+  background-image: url("../images/slide3.jpg");
   background-size: cover;
   background-position: center;
 }
 slide:nth-child(4) {
   left: 0%;
   animation-delay:8s ;
-  background-image: url(/images/slide4.jpg);
+  background-image: url("../images/slide4.jpg");
   background-size: cover;
   background-position: center;
 }
