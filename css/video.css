@@ -1,0 +1,16 @@
+
+  /* Video */
+  .video {
+    padding: 10px 0 40px;
+  }
+  
+  .video .video-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .video .video-preview {
+    margin-bottom: 20px;
+  }
+  
