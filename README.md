@@ -1,3 +1,33 @@
+# LutFrontEnd
+
+## Overview
+
+**LutFrontEnd** is a multi-page responsive website designed for a photography studio. It includes the following pages:
+- **Home** (Main Page)
+- **About Us** (Company Introduction)
+- **Portfolio** (Photography Showcase)
+- **Contact** (Get in Touch)
+
+This project is built using **HTML, CSS, and JavaScript**, providing a modern and clean design optimized for both desktop and mobile devices.
+
+**Important Note:**  
+Opening the HTML files directly in a browser may cause some images not to display properly. This is due to browser security restrictions on local file access. It is recommended to run the project using a local server, such as **live-server**.
+
+## Project Structure
+
+```plaintext
+LutFrontEnd/
+├── index.html           # Home Page
+├── about.html           # About Us Page
+├── portfolio.html       # Portfolio Page
+├── contact.html         # Contact Page
+├── css/
+│   └── main.css         # Global Stylesheet
+├── js/
+│   └── main.js          # Global JavaScript
+└── images/              # Image Resources (Hero, Team Photos, Portfolio Images, etc.)
+```
+
 # Project Setup
 
 ## Prerequisites
