@@ -108,7 +108,7 @@
   
   /* 英雄区 */
   .hero {
-    background: url('/images/hero.avif') center/cover no-repeat;
+    background: url('../images/hero.avif') center/cover no-repeat;
     height: 80vh;
     display: flex;
     align-items: center;
@@ -244,7 +244,7 @@
 
 /* 英雄区 */
 .about-hero {
-    background: url('/images/about-hero.avif') center/cover no-repeat;
+    background: url('../images/about-hero.avif') center/cover no-repeat;
     height: 50vh;
     display: flex;
     align-items: center;
@@ -362,7 +362,7 @@
 
 /* 英雄区 */
 .portfolio-hero {
-    background: url('/images/portfolio-hero.avif') center/cover no-repeat;
+    background: url('../images/portfolio-hero.avif') center/cover no-repeat;
     height: 40vh;
     display: flex;
     align-items: center;
